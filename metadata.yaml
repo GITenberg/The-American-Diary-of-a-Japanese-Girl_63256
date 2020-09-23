@@ -1,0 +1,40 @@
+_repo: The-American-Diary-of-a-Japanese-Girl_63256
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Yeto, Genjiro
+    aliases:
+    - Kataoka, Genjiro
+    - Kataoka, G.
+    - Yeto, Gaingero
+    birthdate: 1867
+    deathdate: 1924
+    gutenberg_agent_id: '38503'
+    url: http://www.gutenberg.org/2009/agents/38503
+creator:
+  author:
+    agent_name: Noguchi, Yoné
+    aliases:
+    - Noguti, Yone
+    - Noguchi, Yone
+    - Noguchi, Yonejiro
+    - 野口ヨネ
+    - 野口米次郎
+    birthdate: 1875
+    deathdate: 1947
+    gutenberg_agent_id: '51851'
+    url: http://www.gutenberg.org/2009/agents/51851
+    wikipedia: https://en.wikipedia.org/wiki/Yone_Noguchi
+description: ''
+gutenberg_issued: '2020-09-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63256'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The American Diary of a Japanese Girl
+url: http://www.gutenberg.org/ebooks/63256
